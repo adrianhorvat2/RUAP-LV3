@@ -3,7 +3,7 @@
     <title>Registration Form</title>
     <style type="text/css">
         body {
-            background-color: #fff;
+            background-color: #aaaaaa;
             border-top: solid 10px #000;
             color: #333;
             font-size: .85em;
